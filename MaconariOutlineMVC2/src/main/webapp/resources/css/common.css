@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.container-fluid{
+	height:200px;
+}
+
+.header__inner{
+	background-color:#EEEEEE;
+	font-family:"ヒラギノ角ゴ StdN";
+	font-size:100%;
+}
+
+a{
+	color:black;
+}
+
+a:hover{
+	color:silver;
+}

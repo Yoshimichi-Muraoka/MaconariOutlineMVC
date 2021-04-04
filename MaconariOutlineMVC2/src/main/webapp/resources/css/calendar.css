@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+.container-fulid{
+	height:180px;
+	background-color:#EEEEEE;
+}
+
+.header__inner{
+	background-color:#EEEEEE;
+	font-family:"ヒラギノ角ゴ StdN";
+}
+
+.header__form{
+	font-family:"ヒラギノ角ゴ";
+}
+
+.header__goback{
+	margin-bottom:0%;
+}
+
+.btn{
+	margin-bottom:4px;
+}
+
+a{
+	color:black;
+	font-weight:bold
+}
+
+a:hover{
+	color:silver;
+}
+
+p{
+	font-weight:bold;
+}
+
+.inner-item__date{
+	font-size:150%;
+}
+
+.table-date{
+	font-size:130%;
+}
+
+.table__day_schedule{
+	margin-bottom:0%;
+}
+
+table{
+	width:100%;
+}
+
+.table__week_sunday{
+	background-color:#FF0000;
+}
+
+.table__week_suturday{
+	background-color:#136FFF;
+}
+
+td{
+	height:100px;
+}
+
+td{
+	vertical-align:top;
+}
+
+.table__day_icon{
+	float:right;
+}

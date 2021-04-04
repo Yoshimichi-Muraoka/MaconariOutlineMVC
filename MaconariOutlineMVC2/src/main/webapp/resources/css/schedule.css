@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+.header__goback_link{
+	color:black;
+}
+
+.header__goback_link:hover{
+	color:silver;
+}
+
+table{
+	width:100%;
+}
+
+tr{
+	height:25px;
+}
+
+th{
+	text-align:center;
+}
+
+td{
+	text-align:right;
+}
+
+.table__td_time{
+	background-color:#DDFFFF;
+}
+
+.table__td_schedule{
+	width:80%;
+}
+
+.table__td_schedule_link{
+	margin-bottom:0%;
+	background-color:#FFE4C4;
+}
+
+p{
+	font-weight:bold;
+}
+
+.form__schedule_text{
+	width:100%;
+}
+
+.form__memo{
+	margin-top:10px;
+}
+
+.form__memo_textarea{
+	width:100%;
+}
+
+.form__submit{
+	margin-top:3%;
+}
